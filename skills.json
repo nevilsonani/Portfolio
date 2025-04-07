@@ -75,5 +75,9 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "NestJS",
+        "icon": " https://icons8.com/icon/9ESZMOeUioJS/nestjs"
     }
 ]
